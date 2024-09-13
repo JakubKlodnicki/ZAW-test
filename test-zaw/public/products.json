@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "T-Shirt",
+    "image": "https://uiuxassets.com/media/pages/products/ui-ux-t-shirt/85fc4d72ca-1624126310/ui-ux-t-shirt.jpg",
+    "price": 80,
+    "createdDate": "2020-01-01"
+  },
+  {
+    "id": 2,
+    "name": "Bluza",
+    "image": "https://uiuxassets.com/media/pages/products/ui-ux-hoodie/7021473c54-1624126312/ui-ux-hoodie-1440x.jpg",
+    "price": 45,
+    "createdDate": "2022-01-01"
+  },
+  {
+    "id": 3,
+    "name": "Czapka z daszkiem",
+    "image": "https://uiuxassets.com/media/pages/products/ui-ux-structured-twill-cap/2ea5087a3e-1624126314/ui-ux-structured-twill-cap-1440x.jpg",
+    "price": 10,
+    "createdDate": "2021-01-01"
+  },
+  {
+    "id": 4,
+    "name": "Torba",
+    "image": "https://uiuxassets.com/media/pages/products/ui-ux-roll-top-backpack/d4acdaa749-1624126312/ui-ux-roll-top-backpack-1440x.jpg",
+    "price": 25,
+    "createdDate": "2023-01-01"
+  },
+  {
+    "id": 5,
+    "name": "Bluza z czerwonym napisem",
+    "image": "https://uiuxassets.com/media/pages/products/should-designers-code-hoodie/30d80f24bb-1624126310/should-designers-code-hoodie-1440x.jpg",
+    "price": 100,
+    "createdDate": "2019-01-01"
+  },
+  {
+    "id": 6,
+    "name": "Czapka zimowa",
+    "image": "https://uiuxassets.com/media/pages/products/ui-ux-embroidered-beanie/ed515acb8c-1624126314/ui-ux-embroidered-beanie-1440x.jpg",
+    "price": 20,
+    "createdDate": "2019-01-01"
+  }
+]
